@@ -1,0 +1,1 @@
+﻿Los valores óptimos de mu y c son mu = 100.0 y c = 7.0, eso debido a que la función de chi-cuadrado evaluada en este par de constantes es menor que cuando se evalúa en las otras.
